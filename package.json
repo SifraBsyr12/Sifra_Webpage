@@ -1,3 +1,4 @@
+
 {
   "name": "sifra-portfolio",
   "private": true,
@@ -14,7 +15,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
-    "vite": "^5.4.11",
-    "vite-plugin-singlefile": "^2.0.3"
+    "vite": "^5.4.11"
   }
 }
