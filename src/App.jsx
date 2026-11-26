@@ -3,7 +3,7 @@ import './styles.css'
 import * as d from './data.js'
 import Shot from './art.jsx'
 import { initAnimations, initExtras } from './motion.js'
-import photo from './assets/sifra.jpg'
+import photo from './assets/sifra.jpeg'
 import heroBg from './assets/hero-bg.svg'
 
 const Points = ({ items }) => (
